@@ -1,5 +1,5 @@
 # How to display a webcam liveview in a Jupyter notebook using ipywidgets
-Displaying the webcam liveview in a jupyter-notebook
+Instructions for displaying the webcam liveview in a Jupyter notebook using  ipywidgets.
 
 * Install Miniconda
     * [Download the installer](https://docs.conda.io/en/latest/miniconda.html)
